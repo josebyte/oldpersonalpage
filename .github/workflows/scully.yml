@@ -4,7 +4,7 @@ name: Scully Publish
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "personalsite" ]
 
 jobs:
   build:

@@ -4,7 +4,7 @@ name: Scully Publish
 
 on:
   push:
-    branches: [ "personalsite" ]
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -17,5 +17,5 @@ jobs:
       - uses: cmgriffing/scully-gh-pages-action@v9
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
-          deploy-branch: main
+          deploy-branch: gh-pages
 

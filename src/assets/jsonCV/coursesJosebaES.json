@@ -1,0 +1,110 @@
+[
+  {
+    "date": "08/2022",
+    "qualification": "Certificación Google Project Manager que consta de 6 cursos.",
+    "organisationName": "Coursera",
+    "description": "<a target='_blank' href='assets/certificados/googlepmW34DSBGGVESU.pdf'>Certificado</a> de superación del curso."
+  },
+  {
+    "date": "06/2022",
+    "qualification": "Gestión de proyectos con Metodologías Ágiles y Enfoques Lean.",
+    "organisationName": "Fundación Telefónica",
+    "description": "<a target='_blank' href='assets/certificados/GLFTDiploma.pdf'>Certificado</a> de superación del curso."
+  },
+  {
+    "date": "05/2020",
+    "qualification": "Especialización six sigma green belt que consta de 4 cursos.",
+    "organisationName": "Coursera",
+    "description": "<a target='_blank' href='assets/certificados/sixsigma.jpg'>Certificado</a> de superación del curso."
+  },
+  {
+    "date": "09/2018",
+    "qualification": "Angular 6 avanzado, MEAN, JWT, Módulos y animaciones",
+    "organisationName": "Udemy",
+    "description": "<a target='_blank' href='assets/certificados/certificadoANGULAR6.jpg'>Certificado</a> de superación del curso de Angular."
+  },
+  {
+    "date": "01/2016",
+    "qualification": "Curso de Cloud Computing",
+    "organisationName": "Escuela de organización industrial (EOI)",
+    "description": "<a target='_blank' href='assets/certificados/Activate 03 Cloud Computing.pdf'>Certificado</a> de superación del curso de Cloud Computing de 40 horas de duración."
+  },
+  {
+    "date": "01/2016",
+    "qualification": "Curso de Marketing digital",
+    "organisationName": "Escuela de organización industrial (EOI)",
+    "description": "<a target='_blank' href='assets/certificados/Activate 02 Curso Marqueting digital.pdf'>Certificado</a> de superación del curso de Marqueting digital de 40 horas de duración."
+  },
+  {
+    "date": "01/2016",
+    "qualification": "Curso de Analítica Web",
+    "organisationName": "Escuela de organización industrial (EOI)",
+    "description": "<a target='_blank' href='assets/certificados/Activate 04 Analitica Web-2016-01-26.pdf'>Certificado</a> de superación del curso de analítica web de 40 horas de duración."
+  },
+  {
+    "date": "01/2016",
+    "qualification": "HTML 5.1x Part 2: Advanced Techniques for Designing HTML5 Apps",
+    "organisationName": "W3C",
+    "description": "Curso completo con <a target='_blank' href='https://courses.edx.org/certificates/64909559ecca4cf3bbc17f77ce54290d'>certificado</a> de HTML5 impartido por la W3C y distribuido en EDX."
+  },
+  {
+    "date": "12/2015",
+    "qualification": "HTML 5.1x Part 1: HTML5 Coding Essentials and Best Practices",
+    "organisationName": "W3C",
+    "description": "Curso completo con <a target='_blank' href='https://courses.edx.org/certificates/c2dff26fc005475fb7e5ee716cbdeaca'>certificado</a> de HTML5 impartido por la W3C y distribuido en EDX."
+  },
+  {
+    "date": "10/2015",
+    "qualification": "Programación de Apps Móviles",
+    "organisationName": "Universidad Complutense Madrid",
+    "description": "<a target='_blank' href='assets/certificados/Activate 01 AppsMoviles.pdf'>Certificado</a> de superación del curso de desarrollo de Apps Móviles de 40 horas de duración."
+  },
+  {
+    "date": "07/2015",
+    "qualification": "HTML5.1x: Fundamentos de diseño web",
+    "organisationName": "W3C",
+    "description": "Curso completo con <a target='_blank' href='assets/certificados/HTML5Certificate.pdf'>certificado verificado</a> de HTML5 y CSS3 impartido por la W3C y distribuido en EDX."
+  },
+  {
+    "date": "07/2015",
+    "qualification": "Google tag manager",
+    "organisationName": "Google",
+    "description": "Curso oficial Google tag manager <a target='_blank' href='assets/certificados/googletag.png'>Certificación</a>. "
+  },
+  {
+    "date": "06/2015",
+    "qualification": "NodeJS y ExpressJS",
+    "organisationName": "Universidad Politecnica de Madrid",
+    "description": "NodeJS y ExpressJS "
+  },
+  {
+    "date": "06/2015",
+    "qualification": "Claves para Gestionar Personas",
+    "organisationName": "IESE Business School (Navarra)",
+    "description": "<a target='_blank' href='https://www.coursera.org/account/accomplishments/certificate/VDRYSUH9RH'>Certificado</a>"
+  },
+  {
+    "date": "04/2015",
+    "qualification": "MongoDB Certified",
+    "organisationName": "MongoDB",
+    "description": "Official MongoDB developer certification: <a href='https://university.mongodb.com/certification/display_certificate?license1=872&license2=056&license3=600'>Certificado</a>"
+  },
+  {
+    "date": "03/2015",
+    "qualification": "MongoDB for Data base administrators",
+    "organisationName": "MongoDB-University",
+    "description": "Certificado de superación del curso MongoDB for DBA con una calificación entre el 5% mejor - Formación oficial MongoDB DBA. <a href='assets/certificadosMOngoDBCertifiedDBA.pdf'>Certificado</a>"
+  },
+  {
+    "date": "02/2015",
+    "qualification": "MongoDB for Node.js Developers",
+    "organisationName": "MongoDB-University",
+    "description": "Certificado de superación del curso MongoDB for NodeJs developers obtenido unicamente por el 17% de los 5.152 inscritos - Formación oficial MongoDB University avanzada en la base de dato no relacional. <a href='assets/certificados/MongoDBCertificate.pdf'>Certificado</a>"
+  },
+  {
+    "date": "2015",
+    "qualification": "Desarrollo en HTML5, CSS y Javascript de WebApps, incl. móviles FirefoxOS",
+    "organisationName": "Universidad Politecnica de Madrid",
+    "description": "Rango percentil de 94% - 50h de formación avanzada en programación y diseño de aplicaciones, utilizando HTML5, CSS3 y JS. <a href='assets/certificados/firefoxapps.PDF'>Certificado</a>"
+  }
+]

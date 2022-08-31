@@ -1,0 +1,43 @@
+<div class="mainDetails row">
+
+  <div id="name" class="col-xl-7 col-lg-6">
+
+      <img [src]="photo" class="only-print rounded-circle photo" >
+      <div class="title">
+        <h1>{{personalInformation.firstName + ' ' + personalInformation.lastName}}</h1>
+        <h2>{{'title' | translate}}</h2>
+      </div>
+
+  </div>
+
+  <div id="contactDetails" class="col-xl-5 col-lg-6">
+    <div class="row">
+      <div class="col-sm-6 col-xs-12 contactItem">
+        <i-feather name="user"></i-feather>
+        {{ personalInformation.dateOfBirth.date | date: 'dd/MM/yyyy' }}
+      </div>
+      <div class="col-sm-6 col-xs-12 contactItem">
+        <i-feather name="at-sign"></i-feather>
+        {{ personalInformation.emails[0] }}
+      </div>
+      <div class="col-sm-6 col-xs-12 contactItem">
+        <i-feather name="phone"></i-feather>
+        {{ personalInformation.phones[0].phoneNumber }}
+      </div>
+      <div class="col-sm-6 col-xs-12 contactItem">
+        <i-feather name="map-pin"></i-feather>
+        {{personalInformation.addresses[0].city }}
+        Bizkaia (España)
+      </div>
+      <div class="col-sm-6 col-xs-12 contactItem no-print">
+        <i-feather name="github"></i-feather>
+        <a href="https://github.com/josebyte"> Github</a>
+      </div>
+      <div class="col-sm-6 col-xs-12 contactItem no-print">
+        <i-feather name="linkedin"></i-feather>
+        <a href="https://www.linkedin.com/in/joseba-madrigal-18166b98/"> Linkedin</a>
+      </div>
+    </div>
+  </div>
+
+</div>

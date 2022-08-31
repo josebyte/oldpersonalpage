@@ -1,0 +1,40 @@
+<div class="card m-2">
+
+  <a class="image-link"
+     data-bs-toggle="modal"
+     data-bs-target="#exampleModal">
+    <img [src]="'assets/images/screenshots/' + project.image" class="card-img-top" [alt]="project.title">
+  </a>
+
+  <div class="card-body">
+    <h4 class="card-title">{{project.title}}</h4>
+    <p *ngIf="project.desc" class="card-text">{{project.desc}}</p>
+    <iframe *ngIf="project.youtubevideo"
+            width="100%" height="415"
+            [src]="url"
+            allowfullscreen></iframe>
+
+    <app-tecnologies [tecnologies]="project.tech"></app-tecnologies>
+    <a target="_blank" *ngIf="project.web" [href]="project.web" class="btn btn-primary">{{project.web}}</a>
+  </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Titulo modal {{project.title}} </h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img [src]="'assets/images/screenshots/ori/' + project.image" class="card-img-top" [alt]="project.title">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <!--<button type="button" class="btn btn-primary">Save changes</button>-->
+      </div>
+    </div>
+  </div>
+</div>

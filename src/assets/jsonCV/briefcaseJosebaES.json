@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Master of stars",
+    "desc": "Web del trabajo de fin de grado",
+    "image": "masterofstars.jpg",
+    "web": "",
+    "youtubevideo": "aTBBw17_ScU",
+    "tech": []
+  },
+  {
+    "title": "Master of stars",
+    "desc": "App del trabajo de fin de grado",
+    "image": "masterofstars2.jpg",
+    "web": "",
+    "tech": [
+      "html5", "css3",  "js", "bootstrap", "php", "mysql"
+    ]
+  },
+  {
+    "title": "VerboVista",
+    "desc": "Proyecto personal desarrollado por mi en su totalidad.",
+    "image": "verbovista.png",
+    "web": "https://verbovista.com",
+    "tech": [
+      "html5", "css3", "js", "angular", "ionic"
+    ]
+  },
+  {
+    "title": "Muviment",
+    "desc": "Desarrollo del frontend en Irontec.",
+    "image": "muviment.svg",
+    "web": "https://www.muviment.com",
+    "tech": [
+      "html5", "css3", "js", "angular", "ionic"
+    ]
+  },
+  {
+    "title": "Selfoil",
+    "desc": "Tienda virtual Selfoil desarrollada en Near Technologies junto a mi compañera Janire Noguerol.",
+    "image": "selfoil.jpg",
+    "web": "https://www.selfoil.com",
+    "tech": [
+      "html5", "css3", "bootstrap", "js", "php", "mysql"
+    ]
+  },
+  {
+    "title": "BoardZona",
+    "desc": "Programación, maquetación y diseño con un compañero. En ForoDigital.",
+    "image": "boardzona.jpg",
+    "web": "http://www.boardzona.com",
+    "tech": [
+      "html5", "css3", "bootstrap", "js", "asp", "mysql"
+    ]
+  },
+  {
+    "title": "CanalCiclismo",
+    "desc": "Programación, maquetación y diseño con un compañero. En ForoDigital.",
+    "image": "canalciclismo.jpg",
+    "web": "http://www.canalciclismo.com",
+    "tech": [
+      "html5", "css3", "bootstrap", "js", "asp", "mysql"
+    ]
+  },
+  {
+    "title": "FitnessZona",
+    "desc": "Programación, maquetación y diseño con un compañero. En ForoDigital.",
+    "image": "fitnesszona.jpg",
+    "web": "http://www.fitnesszona.com",
+    "youtubevideo": "",
+    "tech": [
+      "html5", "css3", "bootstrap", "js", "asp", "mysql"
+    ]
+  },
+  {
+    "title": "BikeZona",
+    "desc": "Programación, maquetación y diseño con un compañero. En ForoDigital.",
+    "image": "bikezona.jpg",
+    "web": "http://www.bikezona.com",
+    "youtubevideo": "",
+    "tech": [
+      "html5", "css3", "bootstrap", "js", "asp", "mysql"
+    ]
+  },
+  {
+    "title": "BikeZona TV",
+    "desc": "Programación, maquetación y diseño con un compañero. En ForoDigital.",
+    "image": "bikezonatv.jpg",
+    "web": "http://www.bikezona.tv",
+    "youtubevideo": "",
+    "tech": [
+      "html5", "css3", "bootstrap", "js", "php", "mysql"
+    ]
+  },
+  {
+    "title": "CanalChic",
+    "desc": "Programación, maquetación y diseño con un compañero. En ForoDigital.",
+    "image": "canalchic.jpg",
+    "web": "http://www.canalchic.com",
+    "youtubevideo": "",
+    "tech": [
+      "html5", "css3", "js", "bootstrap",  "asp", "mysql"
+    ]
+  },
+  {
+    "title": "SailingZona",
+    "desc": "Programación, maquetación y diseño con un compañero. En ForoDigital.",
+    "image": "sailingzona.jpg",
+    "web": "http://www.sailingzona.com",
+    "tech": [
+      "html5", "css3", "js", "bootstrap", "asp", "mysql"
+    ]
+  },
+  {
+    "title": "LifeZona",
+    "desc": "Programación, maquetación y diseño con un compañero. En ForoDigital.",
+    "image": "lifezona.jpg",
+    "web": "http://www.lifezona.com",
+    "tech": [
+      "html5", "css3", "js", "bootstrap", "asp", "mysql"
+    ]
+  },
+  {
+    "title": "ForoDigitale",
+    "desc": "Programación, maquetación y diseño con un compañero. En ForoDigital.",
+    "image": "forodigitale.jpg",
+    "web": "http://www.forodigitale.com",
+    "tech": [
+      "html5", "css3", "js", "jquery", "asp", "mysql"
+    ]
+  },
+  {
+    "title": "Mini juego",
+    "desc": "Modelado 3D, Animación 3D y desarrollo en Unity 3D con programación en C#.",
+    "image": "tmult.jpg",
+    "web": "https://www.josebamadrigal.com/demos/tmult/final%20tmult.html",
+    "tech": [
+      "maya", "unity", "csharp"
+    ]
+  }
+]

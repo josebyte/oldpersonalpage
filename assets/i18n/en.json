@@ -1,0 +1,40 @@
+{
+  "title": "Software engineer",
+
+  "personalInformation": "Información personal",
+  "firstName": "Nombre",
+  "lastName": "Apellidos",
+  "dateOfBirth": "Fecha de nacimiento",
+  "sex": "Sexo",
+  "nationalities": "Nacionalidad",
+  "city": "Ciudad",
+  "pais": "País",
+  "emails": "Email",
+  "phones": "Teléfono",
+  "drivingLicense": "Permiso de conducir",
+  "educationTrainings": "Formación académica",
+  "complementaryTrainings": "Formación complementaria",
+  "books": "Libros publicados",
+  "workExperiences": "Experiencia laboral",
+  "organisationalSkills": "Competencias organizativas",
+  "languageSkills": "Idiomas",
+
+  "tecnologies": "Tecnologías",
+
+  "LANG": {
+    "listening": "Comprensión auditiva",
+    "reading": "Comprensión lectora",
+    "writing": "Expresión escrita",
+    "spokenInteraction": "Oral",
+    "baq": "Euskera",
+    "ingles": "Inglés"
+  },
+
+  "nav": {
+    "cv": "CV",
+    "briefcase": "Portafolio",
+    "recommendation-letters": "Recomendaciones",
+    "print": "Imprimir",
+    "contact": "Contactar"
+  }
+}

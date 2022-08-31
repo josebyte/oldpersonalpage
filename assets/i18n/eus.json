@@ -1,0 +1,40 @@
+{
+  "title": "Informatika ingeniaria",
+
+  "personalInformation": "Informazio pertsonala",
+  "firstName": "Izena",
+  "lastName": "Abizena",
+  "dateOfBirth": "Jaioteguna",
+  "sex": "Sexua",
+  "nationalities": "Nazionalitatea",
+  "city": "Hiria",
+  "pais": "Herrialdea",
+  "emails": "Email",
+  "phones": "Telefono zenbakia",
+  "drivingLicense": "Gidabaimena",
+  "educationTrainings": "Prestakuntza akademikoa",
+  "complementaryTrainings": "Beste prestakuntzak",
+  "books": "Argitaratutako liburuak",
+  "workExperiences": "Lan esperientzia",
+  "organisationalSkills": "Antolakuntza-gaitasunak",
+  "languageSkills": "Hizkuntzak",
+
+  "tecnologies": "Teknologiak",
+
+  "LANG": {
+    "listening": "Entzumena",
+    "reading": "Irakurmena",
+    "writing": "Idazmena",
+    "spokenInteraction": "Ahozkoa",
+    "baq": "Euskara",
+    "ingles": "Ingelesa"
+  },
+
+  "nav": {
+    "cv": "CV",
+    "briefcase": "Proiektuak",
+    "recommendation-letters": "Gomendio gutunak",
+    "print": "Imprimatu",
+    "contact": "Kontaktatu"
+  }
+}

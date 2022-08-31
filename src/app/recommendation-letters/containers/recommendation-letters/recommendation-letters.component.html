@@ -1,0 +1,11 @@
+
+<div class="row mt-3 mb-4">
+  <div class="col-md-6 card" *ngFor="let letter of letters">
+
+    <div class="card-body">
+      <h4 class="card-title">{{letter.title}}</h4>
+    </div>
+
+    <img [src]="'assets/images/letters/' + letter.image" [alt]="letter.title">
+  </div>
+</div>

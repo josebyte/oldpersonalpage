@@ -1,0 +1,4 @@
+<div *ngIf="tecnologies.length > 0">
+  <div>{{'tecnologies' | translate}}:</div>
+  <img *ngFor="let tec of tecnologies" class="tool" [src]="'assets/images/tecnologias/' + tec + '.png'">
+</div>

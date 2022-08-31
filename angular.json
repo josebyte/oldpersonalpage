@@ -106,5 +106,6 @@
         }
       }
     }
-  }
+  },
+  "defaultProject": "personal_site"
 }

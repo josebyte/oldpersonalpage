@@ -2,6 +2,7 @@
 
 - Source code in personalsite branch
 - Builded static files in main branch
+- 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 

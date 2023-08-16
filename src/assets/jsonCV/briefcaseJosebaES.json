@@ -17,24 +17,6 @@
     ]
   },
   {
-    "title": "VerboVista",
-    "desc": "Proyecto personal desarrollado por mi en su totalidad.",
-    "image": "verbovista.png",
-    "web": "https://verbovista.com",
-    "tech": [
-      "html5", "css3", "js", "angular", "ionic"
-    ]
-  },
-  {
-    "title": "Muviment",
-    "desc": "Desarrollo del frontend en Irontec.",
-    "image": "muviment.svg",
-    "web": "https://www.muviment.com",
-    "tech": [
-      "html5", "css3", "js", "angular", "ionic"
-    ]
-  },
-  {
     "title": "Selfoil",
     "desc": "Tienda virtual Selfoil desarrollada en Near Technologies junto a mi compañera Janire Noguerol.",
     "image": "selfoil.jpg",

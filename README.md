@@ -1,15 +1,13 @@
 # PersonalSite
 
-- Source code in personalsite branch
-- Builded static files in main branch
-- 
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ng build
-npm run scully --scanRoutes
-npx scully
-npx scully serve
+npm run scully
+
+# Deployment
+Is automated in a github action. Internally runs: 
+npm run scully:prod
 
 
 ## Development server

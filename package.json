@@ -10,7 +10,7 @@
     "scully:scan": "npx scully --scanRoutes",
     "scully:serve": "npx scully serve",
     "scully": "npm run build && npm run scully:scan && npm run scully:serve",
-    "scully:prod": "npm run build && npm run scully -- --nw --noPrompt"
+    "scully:prod": "npm run build && npm run scully -- --nw"
   },
   "private": true,
   "dependencies": {
